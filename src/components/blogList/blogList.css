@@ -1,0 +1,11 @@
+.blogListContainer {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 90%;
+   margin-left: 5%;
+   margin-top: 40px;
+   justify-content: center;
+   align-items: center;
+   gap: 80px;
+}
